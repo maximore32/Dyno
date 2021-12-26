@@ -1,0 +1,17 @@
+{
+  "name": "dinopedia",
+  "version": "1.0.0",
+  "description": "Biblioteca de dinosaurios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maximiliano Moré",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.11.18"
+  }
+}
